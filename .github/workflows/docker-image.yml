@@ -1,4 +1,4 @@
-name: deployazurecicddocker
+name: Build a Docker image and Push it to Docker Hub Container Registry
 
 #This CI Workflow will be executed everytime a commit is pushed (directly or via PR to the selected branches)
 on:
