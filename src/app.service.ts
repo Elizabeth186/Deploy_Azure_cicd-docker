@@ -49,6 +49,15 @@ export class AppService {
           country: 'Item 5'
         }
       },
+      {
+        id: 6,
+        salute: '6 Element',
+        properties: {
+          name: 'Item 6',
+          lastname: 'Item 6',
+          country: 'Item 6'
+        }
+      },
     ];
 
     return salute;
