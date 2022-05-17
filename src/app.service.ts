@@ -35,7 +35,7 @@ export class AppService {
         id: 4,
         salute: 'Fourth Element',
         properties: {
-          name: 'Item 4',
+          name: 'Items 4',
           lastname: 'Item 4',
           country: 'Item 4'
         }
